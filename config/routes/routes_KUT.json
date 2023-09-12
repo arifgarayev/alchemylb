@@ -1,0 +1,37 @@
+{
+  "1.0" : {
+    "Akaki Tsereteli State University" : "1 Tbilisi Street Kutaisi"
+  },
+
+  "3.0" : {
+      "11 Javakhishvili Kutaisi" : "1 Tbilisi Street Kutaisi"
+    },
+
+  "5.0" : {
+      "21a Irakli Abashidze Kutaisi" : "1 Tbilisi Street Kutaisi"
+    },
+
+  "7.0" : {
+      "Kutaisi International University" : "10 Tamar Mephe Kutaisi"
+    },
+
+  "9.0" : {
+      "Kutaisi International University" : "13 Irakli Abashidze Kutaisi"
+    },
+
+  "11.0" : {
+      "Kutaisi International University" : "ავტოქარხნის საავადმყოფო"
+    },
+
+  "13.0" : {
+      "Kutaisi International University" : "LEPL General Giorgi Kvinitadze"
+    },
+
+  "15.0" : {
+      "Kutaisi Botanical Garden" : "Maglaki Railway Station"
+    },
+
+  "17.0" : {
+      "Old Imereti" : "Maglaki Railway Station"
+    }
+}

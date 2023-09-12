@@ -1,0 +1,61 @@
+{
+  "1.0" : {
+    "40 Zakaria Paliashvili Street, T'bilisi" : "102 Zakaria Paliashvili Street"
+  },
+
+  "3.0" : {
+      "45 Petre Melikishvili St, T'bilisi" : "8 Geronti Kikodze St"
+    },
+
+  "5.0" : {
+      "8 Gergeti St " : "108 Zakaria Paliashvili Street, T'bilisi"
+    },
+
+  "7.0" : {
+      "8 Gergeti St " : "73 Sulkhan Tsintsadze St, T'bilisi"
+    },
+
+  "9.0" : {
+      "8 Egnate Ninoshvili St, T'bilisi" : "Vazha-Pshavela II Block"
+    },
+
+  "11.0" : {
+      "2 Javakheti Street" : "Stamba"
+    },
+
+  "13.0" : {
+      "27-2 Revaz Laghidze St, T'bilisi" : "19 Ioane Petritsi St"
+    },
+
+  "15.0" : {
+      "8 Gergeti St" : "19 Ioane Petritsi St"
+    },
+
+  "17.0" : {
+      "City Mall Saburtalo,1 Petre Kavtaradze " : "Madart, Omar Khizanishvili 27 (Gldani)"
+    },
+
+  "19.0" : {
+      "International Black Sea University" : "3 Lertsami St"
+    },
+
+  "21.0" : {
+      "International Black Sea University" : "East Point, 2 AleKsandre Tvalchrelidze"
+    },
+
+  "23.0" : {
+      "Container, Marshal Archil Gelovani Ave 36" : "Aeroportis dasakhleba, 46"
+    },
+
+  "25.0" : {
+      "Hotel Tbilisi Tower, Agmashenebeli Alley 7" : "Aeroportis dasakhleba, 46"
+    },
+
+  "27.0" : {
+      "Volvo Car Sakartvelo, David Aghmashenebeli" : "Aeroportis dasakhleba, 46"
+    },
+
+  "29.0" : {
+      "Skoda Auto" : "Aeroportis dasakhleba, 46"
+    }
+}

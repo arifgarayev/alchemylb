@@ -1,0 +1,25 @@
+{
+  "desired_caps" : {
+                "platformName": "android",
+                "platformVersion": "13",
+                "deviceName": "emulator-5554",
+                "automationName" : "UiAutomator2",
+                "autoAcceptAlerts": "true",
+                "locationServicesAuthorized": "true",
+                "udid": "emulator-5554",
+                "maxInstances": "1",
+                "newCommandTimeout": "600"
+  },
+  "host" : {
+    "port" : "4715",
+    "host_url" : "http://127.0.0.1:4715/wd/hub"
+  },
+
+  "android_pkg_name" : "ru.yandex.taxi",
+
+  "gsheet_id" : "",
+
+  "sheet_name" : "Sheet1",
+
+  "db_path" : "./log/last"
+}

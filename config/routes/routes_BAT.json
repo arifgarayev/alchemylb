@@ -1,0 +1,49 @@
+{
+  "1.0" : {
+    "Sheraton Batumi Hotel" : "35 Zurab Gorgiladze"
+  },
+
+  "3.0" : {
+      "Sheraton Batumi Hotel" : "5 Kobaladze Yusuf"
+    },
+
+  "5.0" : {
+      "Sheraton Batumi Hotel" : "25 Eliava Grigory"
+    },
+
+  "7.0" : {
+      "2 Konstantine Gamsakuhurdia Batumi" : "Batumi International Airport"
+    },
+
+  "9.0" : {
+      "3 Giorgi Tsereteli Batumi" : "Batumi International Airport"
+    },
+
+  "11.0" : {
+      "15 აფხაზეთის ქუჩა ბათუმი" : "9 Jincharadze Israfil"
+    },
+
+  "13.0" : {
+      "Batumi International Airport" : "Batumi Botanical Garden"
+    },
+
+  "15.0" : {
+      "Batumi International Airport" : "19 Ioane Petritsi St"
+    },
+
+  "17.0" : {
+      "10 Lortkipanidze Khasan" : "Guest House Pirvelwodebuli"
+    },
+
+  "19.0" : {
+      "10 Lortkipanidze Khasan" : "Bobokvati Railway"
+    },
+
+  "21.0" : {
+      "10 Lortkipanidze Khasan" : "Calypso Kvariati Hotel"
+    },
+
+  "23.0" : {
+      "10 Lortkipanidze Khasan" : "Sarpi"
+    }
+}
