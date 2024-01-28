@@ -5,17 +5,13 @@ from src.resources.locators import SearchModalLocators, ModalLocators, RootLocat
 
 
 class SearchModalView(BaseView):
-
     def __init__(self, driver):
-
         super().__init__(driver)
 
-
     def select_origin_route(self, origin):
-
-        self.click(SearchModalLocators.origin_top). \
-            click(SearchModalLocators.clear_input). \
-            send_text(SearchModalLocators.origin_text_top, origin)
+        self.click(SearchModalLocators.origin_top).click(
+            SearchModalLocators.clear_input
+        ).send_text(SearchModalLocators.origin_text_top, origin)
 
         time.sleep(5)
 
@@ -29,11 +25,9 @@ class SearchModalView(BaseView):
 
         return self
 
-
     # views.modal.Modal object must be initialized in order to run this method
     # it has dependencies
     def select_destination_route(self, destination, modal_obj, root_view_obj):
-
         """
         Multiple objects for multiple app states, so we pass objects,
         cus we are not sure in which state our app currently is.
@@ -57,7 +51,6 @@ class SearchModalView(BaseView):
 
             return self.click(SearchModalLocators.suggested_route)
 
-
         # if self.check_app_state_view(SearchModalLocators.destination_bottom):
         #     # is promting -> 1st state
         #     select()
@@ -66,17 +59,14 @@ class SearchModalView(BaseView):
         #
 
         if self.check_app_state_view(RootLocators.where_to):
-
             root_view_obj.click_to_input()
 
             time.sleep(4)
 
         elif self.check_app_state_view(ModalLocators.modal_destination_input):
-
             modal_obj._click_to_destination(ModalLocators.modal_destination_input)
 
             self.click(SearchModalLocators.clear_input)
-
 
         select()
 
